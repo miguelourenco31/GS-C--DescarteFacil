@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DescarteFacil.Api/DescarteFacil.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DescarteFacil.Tests/DescarteFacil.Tests.csproj" />
+  </Folder>
+</Solution>
